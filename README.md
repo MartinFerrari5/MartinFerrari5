@@ -15,4 +15,5 @@ I'm dedicated to expanding my knowledge and expertise in data science. I believe
 
 # <div align="center">Contact Info</div>
 If you want to work together, here is my contact info 😃. <br>
-<a href="https://www.linkedin.com/in/martin-ferrari-bb0547219/">LinkedIn</a> and Gmail: <a>tinchoferrarigd@gmail.com</a>
+<a href="https://www.linkedin.com/in/martin-ferrari-bb0547219/">LinkedIn</a> <br>
+Gmail: <a>tinchoferrarigd@gmail.com</a>
