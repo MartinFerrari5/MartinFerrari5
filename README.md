@@ -2,13 +2,13 @@
 My name is Martin Ferrari and I from Argentina . I can describe myself as as collaborative and enthusiastic guy 🤓 who enjoys developing apps and doing some engineering work. I have always been a self-taught student who sails the knowledge ocean 🌊 and always trying to discover new stuff to be studied, i find it quite wonderful in my opinion.
 
 # <div align="center">Which technologies I am interested?</div>
-Some coding languages I feel comfortable working with are:
+Some coding languages and technologies I feel comfortable working with are:
 
-1) Python
-2) MySQL
-3) JavaScript
-4) Node.js
-5) React.js
+1) Python 🐍
+2) MySQL 💾
+3) Power BI 📊
+4)  Google Cloud ☁️
+5)  Machine Learning with scikit-learn 🤖
 
 # <div align="center">Goals</div>
 I'm dedicated to expanding my knowledge and expertise in data science. I believe that data-driven insights can drive innovation and problem-solving. We are living the social networks world so **data** is a fundamental resource to be catious with.
