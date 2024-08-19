@@ -14,6 +14,8 @@ Some coding languages I feel comfortable working with are:
 I'm dedicated to expanding my knowledge and expertise in data science. I believe that data-driven insights can drive innovation and problem-solving. We are living the social networks world so **data** is a fundamental resource to be catious with.
 
 # <div align="center">Contact Info</div>
-If you want to work together, here is my contact info 😃. <br>
-<a href="https://www.linkedin.com/in/martin-ferrari-bb0547219/">LinkedIn</a> <br>
-Gmail: <a>tinchoferrarigd@gmail.com</a>
+If you want to work together, here is where you can reach me. <br>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-ferrari-bb0547219/)
+<a href="tinchoferrarigd@gmail.com"><b>Gmail:</b> </a>
