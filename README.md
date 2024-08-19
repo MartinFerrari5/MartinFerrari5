@@ -18,4 +18,4 @@ If you want to work together, here is where you can reach me. <br>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-ferrari-bb0547219/)
-<a href="tinchoferrarigd@gmail.com"><b>Gmail:</b> </a>
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=fff)](tinchoferrarigd@gmail.com)
